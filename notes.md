@@ -1,4 +1,4 @@
-# My notes
+# My notes fro course
 ## Day 1
 
 - how to install
