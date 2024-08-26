@@ -1,0 +1,2 @@
+# GitTraining
+szkolenie Git demo
