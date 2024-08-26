@@ -1,2 +1,2 @@
-# GitTraining project
+# GitTraining project haha
 szkolenie Git demo
